@@ -1,0 +1,8 @@
+# 不打算出入repo的文件或文件夹
+# folder
+build
+.vscode
+
+
+# file
+main.cpp
